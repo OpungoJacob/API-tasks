@@ -8,4 +8,6 @@ In order to obtain acces to the Spotify API, the following requirements are need
     3. The user then must create an application of the developer dashboard specifying the name of the application, the redirect URI, the description of the     
        application.
     4. Once all those requirements are met, then the user's application is created and given acces to the "Client_id" and "Client_ secret".
+
+implementation 1
     
