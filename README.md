@@ -10,5 +10,8 @@ In order to obtain acces to the Spotify API, the following requirements are need
     4. Once all those requirements are met, then the user's application is created and given acces to the "Client_id" and "Client_ secret".
 
 Implementation 1: 
-    Two python scripts were written.
+    Two python scripts were written;
+    1.one that creates the an HTML file from the track names of the playlist songs and displays the word cloud on a browser.
+    
+    
     
