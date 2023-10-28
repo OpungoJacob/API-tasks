@@ -9,5 +9,6 @@ In order to obtain acces to the Spotify API, the following requirements are need
        application.
     4. Once all those requirements are met, then the user's application is created and given acces to the "Client_id" and "Client_ secret".
 
-Implementation 1
+Implementation 1: 
+    Two python scripts were written.
     
