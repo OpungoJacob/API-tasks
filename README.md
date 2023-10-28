@@ -11,7 +11,7 @@ In order to obtain acces to the Spotify API, the following requirements are need
 
 Implementation 1: 
     Two python scripts were written;
-    1.one that creates the an HTML file from the track names of the playlist songs and displays the word cloud on a browser.
+    1. One that creates the an HTML file from the track names of the playlist songs and displays the word cloud on a browser.
     
     
     
