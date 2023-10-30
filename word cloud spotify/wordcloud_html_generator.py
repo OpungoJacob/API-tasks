@@ -6,7 +6,7 @@ import base64
 from io import BytesIO
 
 # Spotify API credentials
-CLIENT_ID = "4656a4330aa14b26aa5103670483668a"
+CLIENT_ID = "4656788a4330aa14b26aa5103670483668a"
 CLIENT_SECRET = "ae442d65b8fa4538bb6ab92531bf5ad8"
 
 # Playlist ID
