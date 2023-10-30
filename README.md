@@ -13,5 +13,7 @@ Implementation One:
     Two python scripts were written;
     1. One that creates the an HTML file from the track names of the playlist songs and displays the word cloud on a browser.
     2. The second creates a wordcloud using the matplotlib.pyplot library.
-    
+
+Implementation Two:
+    The second implementation was a sptify searcher. 
     
