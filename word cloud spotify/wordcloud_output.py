@@ -5,7 +5,7 @@ from spotipy.oauth2 import SpotifyClientCredentials
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 
-# Spotify API credentials
+# Spotify API credentials // obtained from the spotify developer page after creating 
 CLIENT_ID = "4656788a4330aa14b26aa5103670483668a"
 CLIENT_SECRET = "ae443452d65b8fa4538bb6ab92531bf5ad8"
 
