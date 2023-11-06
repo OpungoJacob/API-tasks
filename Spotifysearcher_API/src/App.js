@@ -3,7 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { Container, InputGroup, FormControl, Button, Row, Card } from 'react-bootstrap';
 import { useState, useEffect } from 'react';
 
-const CLIENT_ID ="4656a4330aa14b26aa5103670483668a";
+const CLIENT_ID ="4656788a4330aa14b26aa5103670483668a"
 const CLIENT_SECRET ="ae442d65b8fa4538bb6ab92531bf5ad8";
 
 export default function App(){
