@@ -2,7 +2,7 @@
 This repository is meant to display some of the class tasks assigned in-line with API handling. Python and React were used to build two separate implementations.
 
     NOTE:
-    ** The 
+    ** The "CLIENT _ID" & "CLIENT_SECRET" have been replaced with dummy credentials for security reasons.
 
 The API of choice was SPotify. 
 In order to obtain acces to the Spotify API, the following requirements are needed;
